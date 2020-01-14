@@ -1,0 +1,88 @@
+C:\Users\Jelena\source\repos\AudioPlatformApp\AudioPlatformApp\bin\Debug\AudioPlatformApp.exe.config
+C:\Users\Jelena\source\repos\AudioPlatformApp\AudioPlatformApp\bin\Debug\AudioPlatformApp.exe
+C:\Users\Jelena\source\repos\AudioPlatformApp\AudioPlatformApp\bin\Debug\AudioPlatformApp.pdb
+C:\Users\Jelena\source\repos\AudioPlatformApp\AudioPlatformApp\bin\Debug\AudioPlatform.dll
+C:\Users\Jelena\source\repos\AudioPlatformApp\AudioPlatformApp\bin\Debug\Cassandra.dll
+C:\Users\Jelena\source\repos\AudioPlatformApp\AudioPlatformApp\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Jelena\source\repos\AudioPlatformApp\AudioPlatformApp\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\Jelena\source\repos\AudioPlatformApp\AudioPlatformApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Jelena\source\repos\AudioPlatformApp\AudioPlatformApp\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Jelena\source\repos\AudioPlatformApp\AudioPlatformApp\bin\Debug\LZ4.dll
+C:\Users\Jelena\source\repos\AudioPlatformApp\AudioPlatformApp\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Jelena\source\repos\AudioPlatformApp\AudioPlatformApp\bin\Debug\AudioPlatform.pdb
+C:\Users\Jelena\source\repos\AudioPlatformApp\AudioPlatformApp\bin\Debug\AudioPlatform.dll.config
+C:\Users\Jelena\source\repos\AudioPlatformApp\AudioPlatformApp\bin\Debug\Cassandra.xml
+C:\Users\Jelena\source\repos\AudioPlatformApp\AudioPlatformApp\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Jelena\source\repos\AudioPlatformApp\AudioPlatformApp\bin\Debug\System.Threading.Tasks.Dataflow.xml
+C:\Users\Jelena\source\repos\AudioPlatformApp\AudioPlatformApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Jelena\source\repos\AudioPlatformApp\AudioPlatformApp\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\Jelena\source\repos\AudioPlatformApp\AudioPlatformApp\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Jelena\source\repos\AudioPlatformApp\AudioPlatformApp\obj\Debug\AudioPlatformApp.csprojAssemblyReference.cache
+C:\Users\Jelena\source\repos\AudioPlatformApp\AudioPlatformApp\obj\Debug\AudioPlatformApp.Form1.resources
+C:\Users\Jelena\source\repos\AudioPlatformApp\AudioPlatformApp\obj\Debug\AudioPlatformApp.Properties.Resources.resources
+C:\Users\Jelena\source\repos\AudioPlatformApp\AudioPlatformApp\obj\Debug\AudioPlatformApp.csproj.GenerateResource.cache
+C:\Users\Jelena\source\repos\AudioPlatformApp\AudioPlatformApp\obj\Debug\AudioPlatformApp.csproj.CoreCompileInputs.cache
+C:\Users\Jelena\source\repos\AudioPlatformApp\AudioPlatformApp\obj\Debug\AudioPlatformApp.csproj.CopyComplete
+C:\Users\Jelena\source\repos\AudioPlatformApp\AudioPlatformApp\obj\Debug\AudioPlatformApp.exe
+C:\Users\Jelena\source\repos\AudioPlatformApp\AudioPlatformApp\obj\Debug\AudioPlatformApp.pdb
+C:\Users\Jelena\source\repos\AudioPlatformApp\AudioPlatformApp\obj\Debug\AudioPlatformApp.RegisterForm.resources
+C:\Users\Jelena\source\repos\AudioPlatformApp\AudioPlatformApp\obj\Debug\AudioPlatformApp.Admin.resources
+C:\Users\Jelena\source\repos\AudioPlatformApp\AudioPlatformApp\obj\Debug\AudioPlatformApp.PriceEdit.resources
+C:\Users\Jelena\source\repos\AudioPlatformApp\AudioPlatformApp\obj\Debug\AudioPlatformApp.RemoveAccountsForm.resources
+C:\Users\Jelena\source\repos\AudioPlatformApp\AudioPlatformApp\obj\Debug\AudioPlatformApp.FormProfile.resources
+C:\Users\Jelena\source\repos\AudioPlatformApp\AudioPlatformApp\obj\Debug\AudioPlatformApp.FormLogin.resources
+C:\Users\Jelena\source\repos\AudioPlatformApp\AudioPlatformApp\obj\Debug\AudioPlatformApp.CustomerAccount.resources
+C:\Users\Jelena\source\repos\AudioPlatformApp\AudioPlatformApp\obj\Debug\AudioPlatformApp.FormRating.resources
+C:\Users\Jelena\source\repos\AudioPlatformApp\AudioPlatformApp\obj\Debug\AudioPlatformApp.ExtendContract.resources
+C:\Users\Jelena\source\repos\AudioPlatformApp\AudioPlatformApp\bin\Debug\Interop.WMPLib.dll
+C:\Users\Jelena\source\repos\AudioPlatformApp\AudioPlatformApp\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Jelena\source\repos\AudioPlatformApp\AudioPlatformApp\obj\Debug\Interop.WMPLib.dll
+C:\Users\Jelena\source\repos\AudioPlatformApp\AudioPlatformApp\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Jelena\source\repos\AudioPlatformApp\AudioPlatformApp\obj\Debug\AudioPlatformApp.csproj.ResolveComReference.cache
+C:\Users\Jelena\source\repos\AudioPlatformApp\AudioPlatformApp\obj\Debug\AudioPlatformApp.FormListening.resources
+C:\Users\Jelena\source\repos\AudioPlatformApp\AudioPlatformApp\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Jelena\source\repos\AudioPlatformApp\AudioPlatformApp\obj\Debug\AudioPlatformApp.AllRatingsForm.resources
+C:\Users\Jelena\Desktop\Faks\IV Godina\Napredne Baze\CassandraProjekat\AudioPlatformApp\AudioPlatformApp\obj\Debug\AudioPlatformApp.csprojAssemblyReference.cache
+C:\Users\Jelena\Desktop\Faks\IV Godina\Napredne Baze\CassandraProjekat\AudioPlatformApp\AudioPlatformApp\obj\Debug\Interop.WMPLib.dll
+C:\Users\Jelena\Desktop\Faks\IV Godina\Napredne Baze\CassandraProjekat\AudioPlatformApp\AudioPlatformApp\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Jelena\Desktop\Faks\IV Godina\Napredne Baze\CassandraProjekat\AudioPlatformApp\AudioPlatformApp\obj\Debug\AudioPlatformApp.csproj.ResolveComReference.cache
+C:\Users\Jelena\Desktop\Faks\IV Godina\Napredne Baze\CassandraProjekat\AudioPlatformApp\AudioPlatformApp\obj\Debug\AudioPlatformApp.Admin.resources
+C:\Users\Jelena\Desktop\Faks\IV Godina\Napredne Baze\CassandraProjekat\AudioPlatformApp\AudioPlatformApp\obj\Debug\AudioPlatformApp.AllRatingsForm.resources
+C:\Users\Jelena\Desktop\Faks\IV Godina\Napredne Baze\CassandraProjekat\AudioPlatformApp\AudioPlatformApp\obj\Debug\AudioPlatformApp.CustomerAccount.resources
+C:\Users\Jelena\Desktop\Faks\IV Godina\Napredne Baze\CassandraProjekat\AudioPlatformApp\AudioPlatformApp\obj\Debug\AudioPlatformApp.ExtendContract.resources
+C:\Users\Jelena\Desktop\Faks\IV Godina\Napredne Baze\CassandraProjekat\AudioPlatformApp\AudioPlatformApp\obj\Debug\AudioPlatformApp.Form1.resources
+C:\Users\Jelena\Desktop\Faks\IV Godina\Napredne Baze\CassandraProjekat\AudioPlatformApp\AudioPlatformApp\obj\Debug\AudioPlatformApp.FormListening.resources
+C:\Users\Jelena\Desktop\Faks\IV Godina\Napredne Baze\CassandraProjekat\AudioPlatformApp\AudioPlatformApp\obj\Debug\AudioPlatformApp.FormLogin.resources
+C:\Users\Jelena\Desktop\Faks\IV Godina\Napredne Baze\CassandraProjekat\AudioPlatformApp\AudioPlatformApp\obj\Debug\AudioPlatformApp.FormProfile.resources
+C:\Users\Jelena\Desktop\Faks\IV Godina\Napredne Baze\CassandraProjekat\AudioPlatformApp\AudioPlatformApp\obj\Debug\AudioPlatformApp.FormRating.resources
+C:\Users\Jelena\Desktop\Faks\IV Godina\Napredne Baze\CassandraProjekat\AudioPlatformApp\AudioPlatformApp\obj\Debug\AudioPlatformApp.PriceEdit.resources
+C:\Users\Jelena\Desktop\Faks\IV Godina\Napredne Baze\CassandraProjekat\AudioPlatformApp\AudioPlatformApp\obj\Debug\AudioPlatformApp.Properties.Resources.resources
+C:\Users\Jelena\Desktop\Faks\IV Godina\Napredne Baze\CassandraProjekat\AudioPlatformApp\AudioPlatformApp\obj\Debug\AudioPlatformApp.RegisterForm.resources
+C:\Users\Jelena\Desktop\Faks\IV Godina\Napredne Baze\CassandraProjekat\AudioPlatformApp\AudioPlatformApp\obj\Debug\AudioPlatformApp.RemoveAccountsForm.resources
+C:\Users\Jelena\Desktop\Faks\IV Godina\Napredne Baze\CassandraProjekat\AudioPlatformApp\AudioPlatformApp\obj\Debug\AudioPlatformApp.csproj.GenerateResource.cache
+C:\Users\Jelena\Desktop\Faks\IV Godina\Napredne Baze\CassandraProjekat\AudioPlatformApp\AudioPlatformApp\obj\Debug\AudioPlatformApp.csproj.CoreCompileInputs.cache
+C:\Users\Jelena\Desktop\Faks\IV Godina\Napredne Baze\CassandraProjekat\AudioPlatformApp\AudioPlatformApp\obj\Debug\AudioPlatformApp.exe
+C:\Users\Jelena\Desktop\Faks\IV Godina\Napredne Baze\CassandraProjekat\AudioPlatformApp\AudioPlatformApp\obj\Debug\AudioPlatformApp.pdb
+C:\Users\Jelena\Desktop\Faks\IV Godina\Napredne Baze\CassandraProjekat\AudioPlatformApp\AudioPlatformApp\bin\Debug\AudioPlatformApp.exe.config
+C:\Users\Jelena\Desktop\Faks\IV Godina\Napredne Baze\CassandraProjekat\AudioPlatformApp\AudioPlatformApp\bin\Debug\AudioPlatformApp.exe
+C:\Users\Jelena\Desktop\Faks\IV Godina\Napredne Baze\CassandraProjekat\AudioPlatformApp\AudioPlatformApp\bin\Debug\AudioPlatformApp.pdb
+C:\Users\Jelena\Desktop\Faks\IV Godina\Napredne Baze\CassandraProjekat\AudioPlatformApp\AudioPlatformApp\bin\Debug\AudioPlatform.dll
+C:\Users\Jelena\Desktop\Faks\IV Godina\Napredne Baze\CassandraProjekat\AudioPlatformApp\AudioPlatformApp\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Jelena\Desktop\Faks\IV Godina\Napredne Baze\CassandraProjekat\AudioPlatformApp\AudioPlatformApp\bin\Debug\Cassandra.dll
+C:\Users\Jelena\Desktop\Faks\IV Godina\Napredne Baze\CassandraProjekat\AudioPlatformApp\AudioPlatformApp\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Jelena\Desktop\Faks\IV Godina\Napredne Baze\CassandraProjekat\AudioPlatformApp\AudioPlatformApp\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\Jelena\Desktop\Faks\IV Godina\Napredne Baze\CassandraProjekat\AudioPlatformApp\AudioPlatformApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Jelena\Desktop\Faks\IV Godina\Napredne Baze\CassandraProjekat\AudioPlatformApp\AudioPlatformApp\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Jelena\Desktop\Faks\IV Godina\Napredne Baze\CassandraProjekat\AudioPlatformApp\AudioPlatformApp\bin\Debug\LZ4.dll
+C:\Users\Jelena\Desktop\Faks\IV Godina\Napredne Baze\CassandraProjekat\AudioPlatformApp\AudioPlatformApp\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Jelena\Desktop\Faks\IV Godina\Napredne Baze\CassandraProjekat\AudioPlatformApp\AudioPlatformApp\bin\Debug\AudioPlatform.pdb
+C:\Users\Jelena\Desktop\Faks\IV Godina\Napredne Baze\CassandraProjekat\AudioPlatformApp\AudioPlatformApp\bin\Debug\AudioPlatform.dll.config
+C:\Users\Jelena\Desktop\Faks\IV Godina\Napredne Baze\CassandraProjekat\AudioPlatformApp\AudioPlatformApp\bin\Debug\Cassandra.xml
+C:\Users\Jelena\Desktop\Faks\IV Godina\Napredne Baze\CassandraProjekat\AudioPlatformApp\AudioPlatformApp\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Jelena\Desktop\Faks\IV Godina\Napredne Baze\CassandraProjekat\AudioPlatformApp\AudioPlatformApp\bin\Debug\System.Threading.Tasks.Dataflow.xml
+C:\Users\Jelena\Desktop\Faks\IV Godina\Napredne Baze\CassandraProjekat\AudioPlatformApp\AudioPlatformApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Jelena\Desktop\Faks\IV Godina\Napredne Baze\CassandraProjekat\AudioPlatformApp\AudioPlatformApp\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\Jelena\Desktop\Faks\IV Godina\Napredne Baze\CassandraProjekat\AudioPlatformApp\AudioPlatformApp\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Jelena\Desktop\Faks\IV Godina\Napredne Baze\CassandraProjekat\AudioPlatformApp\AudioPlatformApp\bin\Debug\Interop.WMPLib.dll
+C:\Users\Jelena\Desktop\Faks\IV Godina\Napredne Baze\CassandraProjekat\AudioPlatformApp\AudioPlatformApp\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Jelena\Desktop\Faks\IV Godina\Napredne Baze\CassandraProjekat\AudioPlatformApp\AudioPlatformApp\obj\Debug\AudioPlatformApp.csproj.CopyComplete

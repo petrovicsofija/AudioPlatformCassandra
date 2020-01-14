@@ -1,1 +1,1 @@
-# AudioPlatformCassandra
+//Za projekat AudioPlatform, neophodno je promeniti putanju do foldera "PesmeCassandra" u fajlu FormListening.cs u liniji 27 
